@@ -21,6 +21,6 @@ public class JenkinsTest
 		
 		input = uin.next();
 		
-		System.out.println("Hi "+uin);
+		System.out.println("Hello "+uin);
 	}
 }
